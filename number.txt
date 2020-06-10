@@ -2,6 +2,6 @@ AAA
 
 1
 
-editedit
+edit
 
 BBB
